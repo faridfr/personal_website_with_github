@@ -20,4 +20,6 @@ define("GITHUB_CLIENT_SECRET", 'XXXXX');
 - enjoy your simple personal website
 
 # Demo
+[http://faridfr.ir](http://faridfr.ir)
+
 ![personal_website](http://s8.picofile.com/file/8338422734/personal.png "personal website with github api")
