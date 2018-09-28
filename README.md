@@ -9,7 +9,7 @@ You can have a simple personal website based on your github api
 define("GITHUB_USERNAME", "XXXXX");
 define("INSTAGRAM_USERNAME", "XXXXX");
 define("LINKEDIN_USERNAME", "XXXXX");
-define("REPO_COUNT", 2);
+define("REPO_COUNT", 7);
 define("MOBILE", 'XXXXX');
 define("GITHUB_CLIENT_ID", 'XXXXX');
 define("GITHUB_CLIENT_SECRET", 'XXXXX');
